@@ -1,4 +1,4 @@
-# Real Python Materials
+# Real Python Materials for all
 
 Bonus materials, exercises, and example projects for Real Python's [Python tutorials](https://realpython.com).
 
